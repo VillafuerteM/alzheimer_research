@@ -11,7 +11,8 @@ This project uses Python 3.8 and dlib. For the installation:
 
 - A new blank environment was created with Python 3.8 (face_recognition seemed to work properly on this version)
 - Downloaded the dlib wheel from this [link](https://github.com/z-mahmud22/Dlib_Windows_Python3.x)
-- Installed the wheel with the command 
+- We place the wheel in the root of the environment.
+- Installed the wheel with the command.
 ```python
 python -m pip install dlib-19.22.99-cp38-cp38-win_amd64.whl
 ```
