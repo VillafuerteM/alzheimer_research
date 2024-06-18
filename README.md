@@ -22,3 +22,8 @@ pip install face_recognition
 ```
 - The rest of the libraries can be installed as usual with conda or pip
 
+## DNN Module
+As the base model of face_recognition did not suffice to solve the blurring problem, a DNN model was used. For this, we need to download two files:
+- The model file: [deploy.prototxt](https://github.com/opencv/opencv/blob/master/samples/dnn/face_detector/deploy.prototxt)
+- The weights file: [res10_300x300_ssd_iter_140000.caffemodel](https://github.com/spmallick/learnopencv/blob/master/FaceDetectionComparison/models/res10_300x300_ssd_iter_140000_fp16.caffemodel)
+- Crate and place the files in the folder "models"
