@@ -17,7 +17,7 @@ from moviepy.editor import VideoFileClip
 
 # Paths ---------------------------------------------------------
 # output folder - remains the same throughout the script
-output_folder = '../data/processed2/'
+output_folder = '../data/processed/'
 
 # input folders - list of folders to convert
 input_folders = [
