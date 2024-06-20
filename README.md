@@ -3,7 +3,8 @@ Authors:
 - Maritrini García | [maritrini-gar](https://github.com/maritrini-gar)
 - Mariano Villafuerte | [VillafuerteM](https://github.com/VillafuerteM)
 
-This repository aims to document all the code done for the Alzheimer research. 
+## Absract
+This repository aims to document all the code done for the Alzheimer research.
 
 ## Table of contents
 - [Objective](#objective)
