@@ -1,10 +1,16 @@
 # Alzheimer Research
 Authors:
-- Maritrini García (@maritrini-gar)
-- Mariano Villafuerte ([VillafuerteM](https://github.com/VillafuerteM))
-
+- Maritrini García [maritrini-gar](https://github.com/maritrini-gar)
+- Mariano Villafuerte | [VillafuerteM](https://github.com/VillafuerteM)
 
 This repository aims to document all the code done for the Alzheimer research. 
+
+## Table of contents
+- [Objective](#objective)
+- [dlib installation](#dlib-installation)
+- [DNN Module](#dnn-module)
+- [Repository structure](#repository-structure)
+- [Environment](#environment)
 
 ## Objective
 This repository contains the necessary code to process the data gathered for this research
