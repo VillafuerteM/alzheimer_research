@@ -34,8 +34,9 @@ The repository is structured as follows:
 - **models**: Contains the models used for the face detection
 - **code**: Contains the code used for the research
 
-```
+
 The folders are structured as follows:
+```
 D:.
 ├───code
 │   └───previous_versions
