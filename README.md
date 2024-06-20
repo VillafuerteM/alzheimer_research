@@ -1,7 +1,7 @@
 # Alzheimer Research
-Colaborators:
-- [Maritrini García](www.github.com/maritrini-gar)
-- [Mariano Villafuerte](www.github.com/VillafuerteM)
+Authors:
+- Maritrini García (@maritrini-gar)
+- Mariano Villafuerte (@VillafuerteM)
 
 
 This repository aims to document all the code done for the Alzheimer research. 
