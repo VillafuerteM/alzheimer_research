@@ -34,6 +34,7 @@ The repository is structured as follows:
 - **models**: Contains the models used for the face detection
 - **code**: Contains the code used for the research
 
+```
 The folders are structured as follows:
 D:.
 ├───code
@@ -48,6 +49,7 @@ D:.
 │       └───Fase intermedia
 ├───dlib
 └───models
+```
 
 ## Environment
 The environment used for this project is documented in the file environment.yml. To create the environment, run the following command:
