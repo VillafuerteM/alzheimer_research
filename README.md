@@ -3,9 +3,6 @@ Authors:
 - Maritrini García | [maritrini-gar](https://github.com/maritrini-gar)
 - Mariano Villafuerte | [VillafuerteM](https://github.com/VillafuerteM)
 
-## Absract
-This repository aims to document all the code done for the Alzheimer research.
-
 ## Table of contents
 - [Objective](#objective)
 - [dlib installation](#dlib-installation)
@@ -14,7 +11,7 @@ This repository aims to document all the code done for the Alzheimer research.
 - [Environment](#environment)
 
 ## Objective
-This repository contains the necessary code to process the data gathered for this research
+This repository aims to document all the code done for the Alzheimer research.
 
 ## dlib installation
 This project uses Python 3.8 and dlib. For the installation:
