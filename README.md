@@ -27,3 +27,37 @@ As the base model of face_recognition did not suffice to solve the blurring prob
 - The model file: [deploy.prototxt](https://github.com/opencv/opencv/blob/master/samples/dnn/face_detector/deploy.prototxt)
 - The weights file: [res10_300x300_ssd_iter_140000.caffemodel](https://github.com/spmallick/learnopencv/blob/master/FaceDetectionComparison/models/res10_300x300_ssd_iter_140000_fp16.caffemodel)
 - Crate and place the files in the folder "models"
+
+## Repository structure
+The repository is structured as follows:
+- **data**: Contains the data used for the research
+- **models**: Contains the models used for the face detection
+- **code**: Contains the code used for the research
+
+The folders are structured as follows:
+D:.
+├───code
+│   └───previous_versions
+├───data
+│   ├───final
+│   ├───processed
+│   └───raw
+│       ├───Fase Avanzada a
+│       ├───Fase inicial
+│       ├───Fase inicial B
+│       └───Fase intermedia
+├───dlib
+└───models
+
+## Environment
+The environment used for this project is documented in the file environment.yml. To create the environment, run the following command:
+```python
+conda env create -f environment.yml
+```
+
+Or you can use the requirements.txt file to install the necessary libraries with the following command:
+```python
+pip install -r requirements.txt
+```
+
+Note: the environment uses Python 3.8 as the base version. If a newer version is used, the dlib installation might not work properly. Specifically, the wheel file used for the installation is for Python 3.8.
