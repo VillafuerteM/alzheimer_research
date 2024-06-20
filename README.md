@@ -30,10 +30,16 @@ As the base model of face_recognition did not suffice to solve the blurring prob
 
 ## Repository structure
 The repository is structured as follows:
-- **data**: Contains the data used for the research
-- **models**: Contains the models used for the face detection
-- **code**: Contains the code used for the research
-
+- **code**: 
+    - Contains the code used for the research
+- **data**: 
+    - Contains the data used for the research
+- **dlib**: 
+    - Contains the dlib installation wheel
+- **environment**
+    - Contains the environment for documentation
+- **models**: 
+    - Contains the models used for the face detection
 
 The folders are structured as follows:
 ```
@@ -49,6 +55,7 @@ D:.
 │       ├───Fase inicial B
 │       └───Fase intermedia
 ├───dlib
+├───environment
 └───models
 ```
 
