@@ -1,6 +1,6 @@
 # Alzheimer Research
 Authors:
-- Maritrini García | [maritrini-gar](https://github.com/maritrini-gar)
+- Maritrini García | [Maritrini-garu](https://github.com/maritrini-garu)
 - Mariano Villafuerte | [VillafuerteM](https://github.com/VillafuerteM)
 
 ## Table of contents
