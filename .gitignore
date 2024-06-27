@@ -1,5 +1,7 @@
-# add the data folder 
+# added some folders
 data/
+notes/
+report/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
