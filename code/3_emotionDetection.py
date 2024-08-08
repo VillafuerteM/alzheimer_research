@@ -1,11 +1,29 @@
+"""
+Emotion Detection in Videos
+===========================
+This script processes videos in the input directory and detects emotions in each frame. The detected emotions are
+annotated on the frames, and the processed videos are saved in the output directory.
+
+- The DeepFace library is used for emotion detection.
+
+- The input directory should contain video files in MP4 format.
+
+- The output directory will contain the processed videos with annotated emotions.
+Note: the environment for this script changed slightly, create a new environment. The specifications are in the
+yml file named "fer_env.yml".
+"""
+
+# Libraries -----------------------------------------------------
 import cv2
 from deepface import DeepFace
 import os
 
+# Paths ---------------------------------------------------------
 # Define the input and output directories
 input_dir = '../data/processed2/'
 output_dir = '../data/emotion_detection/'
 
+# Application ---------------------------------------------------
 # Create the output directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)
 
